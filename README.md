@@ -1,6 +1,12 @@
 # ShibaPatrol
 Capstone project for Code:You. A text-based adventure where you play as the Shiba Inu, Poppy, and secure her home from potential threats.
 
+===RUNNING===
+
+Simply open the ShibaPatrol.API and in the terminal, enter "dotnrt run".
+
+Open the ShibaPatrol folder and repeat the process, and the program will begin.
+
 ===HOW TO PLAY===
 
 Shiba Patrol is a text-based adventure; you perform actions by typing in the letter of the action you would like to perform. 
