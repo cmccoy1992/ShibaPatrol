@@ -3,7 +3,7 @@ Capstone project for Code:You. A text-based adventure where you play as the Shib
 
 ===RUNNING===
 
-Simply open the ShibaPatrol.API and in the terminal, enter "dotnrt run".
+Simply open the ShibaPatrol.API and in the terminal, enter "dotnet run".
 
 Open the ShibaPatrol folder and repeat the process, and the program will begin.
 
